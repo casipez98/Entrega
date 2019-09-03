@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\api27\obj\Debug\netcoreapp2.2\api27.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\api27\obj\Debug\netcoreapp2.2\api27.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\api27\obj\Debug\netcoreapp2.2\api27.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\api27\obj\Debug\netcoreapp2.2\api27.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\api27\obj\Debug\netcoreapp2.2\api27.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\api27\obj\Debug\netcoreapp2.2\api27.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\api27\bin\Debug\netcoreapp2.2\api27.deps.json
+C:\Users\Administrator\Desktop\api27\bin\Debug\netcoreapp2.2\api27.runtimeconfig.json
+C:\Users\Administrator\Desktop\api27\bin\Debug\netcoreapp2.2\api27.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\api27\bin\Debug\netcoreapp2.2\api27.dll
+C:\Users\Administrator\Desktop\api27\bin\Debug\netcoreapp2.2\api27.pdb
+C:\Users\Administrator\Desktop\api27\obj\Debug\netcoreapp2.2\api27.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\api27\obj\Debug\netcoreapp2.2\api27.dll
+C:\Users\Administrator\Desktop\api27\obj\Debug\netcoreapp2.2\api27.pdb
